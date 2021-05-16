@@ -19,3 +19,6 @@ The final experiment conducted which yielded optimal results involves the use of
 
 - buffer size - (100000, 128)
 The results are documented in the Final_experiment notebook.
+
+Note: the DDPG code used in this repository has been retrieved from the keras documentation on ddpg and the original code is at :
+https://keras.io/examples/rl/ddpg_pendulum/
